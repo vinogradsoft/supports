@@ -1,5 +1,7 @@
 # Supports
 
+[![codecov](https://codecov.io/gh/vinogradsoft/supports/branch/master/graph/badge.svg?token=C9G5XQHXAF)](https://codecov.io/gh/vinogradsoft/supports)
+
 Библиотека для добавления функциональностей и поддержки слушателей изменения полей объекта. 
 
 Установка
