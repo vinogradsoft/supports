@@ -8,7 +8,7 @@
       "email": "cmk.cmyk@mail.ru"
     }
   ],
-  "version": "1.0.1",
+  "version": "2.0.0",
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
@@ -23,10 +23,10 @@
     }
   },
   "require": {
-    "php": "^7.2|^7.3|^7.4|^8.0|^8.1"
+    "php": "^8.0|^8.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "8.5.x-dev",
+    "phpunit/phpunit": "^9.3.0",
     "overtrue/phplint": "^2.0"
   },
   "repositories": [
